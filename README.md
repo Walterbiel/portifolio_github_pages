@@ -1,3 +1,127 @@
+# Portfólio com GitHub Pages
+
+## Objetivo
+
+Criar um portfólio profissional usando HTML, CSS e JavaScript, hospedado gratuitamente no GitHub Pages.
+
+---
+
+## 1. Criar o repositório no GitHub
+
+Acesse o GitHub e crie um novo repositório.
+
+Para criar um portfólio principal, use o nome:
+
+```txt
+seuusuario.github.io
+```
+
+Exemplo:
+
+```txt
+waltergonzaga.github.io
+```
+
+---
+
+## 2. Gerar os arquivos do portfólio
+
+Use o prompt disponibilizado na aula em uma IA, como Claude, ChatGPT ou Gemini.
+
+A IA deve gerar os seguintes arquivos:
+
+```txt
+index.html
+style.css
+script.js
+```
+
+---
+
+## 3. Adicionar os arquivos no repositório
+
+No GitHub, envie os arquivos gerados para a raiz do repositório.
+
+A estrutura deve ficar assim:
+
+```txt
+seuusuario.github.io/
+│
+├── index.html
+├── style.css
+└── script.js
+```
+
+---
+
+## 4. Ativar o GitHub Pages
+
+No repositório, acesse:
+
+```txt
+Settings > Pages
+```
+
+Em seguida, configure:
+
+```txt
+Source: Deploy from a branch
+Branch: main
+Folder: /root
+```
+
+Depois clique em:
+
+```txt
+Save
+```
+
+---
+
+## 5. Acessar o portfólio
+
+Após alguns minutos, o site estará disponível em:
+
+```txt
+https://seuusuario.github.io
+```
+
+Exemplo:
+
+```txt
+https://waltergonzaga.github.io
+```
+
+---
+
+## 6. Atualizar o portfólio
+
+Sempre que quiser alterar o portfólio:
+
+1. Edite os arquivos
+2. Faça o upload novamente no GitHub
+3. Aguarde o GitHub Pages atualizar o site
+
+---
+
+## Checklist final
+
+- [ ] Repositório criado
+- [ ] Arquivo `index.html` criado
+- [ ] Arquivo `style.css` criado
+- [ ] Arquivo `script.js` criado
+- [ ] Arquivos enviados para o GitHub
+- [ ] GitHub Pages ativado
+- [ ] Portfólio publicado
+
+---
+
+## Observação
+
+O arquivo mais importante é o `index.html`.
+
+Ele é a página inicial que o GitHub Pages irá abrir automaticamente.
+
 # Prompt Base Para Gerar Portfólio GitHub Pages
 
 ## CONTEXTO
